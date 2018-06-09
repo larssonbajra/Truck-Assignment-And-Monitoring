@@ -1,0 +1,99 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Driver.master.cs" Inherits="Truck_Assignment_And_Monitoring.Driver.Driver" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+     <title> <asp:ContentPlaceHolder ID="title" runat="server">
+    </asp:ContentPlaceHolder></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+      <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/simple-sidebar.css" rel="stylesheet">
+  
+     <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="../js/util.js"></script>
+
+        <script src="../js/jquery-2.2.3.min.js" type="text/javascript"></script>
+  
+  
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+      <link rel="stylesheet" href="../alertify/themes/alertify.core.css" />
+
+<link rel="stylesheet" href="../alertify/themes/alertify.default.css" id="toggleCSS" />
+    <!-- this is for stylish alert-->
+<script src="../alertify/lib/alertify.min.js"></script>
+    <script type="text/javascript">
+       
+      
+        
+    </script>
+</head>
+<body>
+   <form id="form1" runat="server">
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="DriverPage.aspx">
+                        Driver
+                    </a>
+                </li>
+                <li>
+                    <a href="NewRequests.aspx">New Requests</a>
+                </li>
+                <li>
+                    <a href="Negotiation.aspx">Negotiation</a>
+                </li>
+                <li>
+                    <a href="TruckTracking.aspx">Truck Tracking</a>
+                </li>
+                <li>
+                    <a href="CargoHistory.aspx">Cargo History</a>
+                </li>
+                <li>
+                     <asp:Button ID="Logout" runat="server" Text="Logout" class="btn btn-outline-primary waves-effect" OnClick="Logout_Click"/>
+                </li>
+               
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                 <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle">Menu Select</a>
+                <h1>Welcome <asp:Label ID="namelabel" runat="server"></asp:Label></h1>
+                
+                <asp:ContentPlaceHolder ID="driverBody" runat="server"></asp:ContentPlaceHolder>
+               
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+        $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    </script>
+      
+    </form>
+</body>
+</html>

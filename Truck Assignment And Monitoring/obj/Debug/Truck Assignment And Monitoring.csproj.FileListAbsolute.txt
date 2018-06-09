@@ -1,0 +1,15 @@
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\bin\Truck Assignment And Monitoring.dll.config
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\bin\Truck Assignment And Monitoring.dll
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\bin\Truck Assignment And Monitoring.pdb
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.dll
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.pdb
+C:\Users\larsson\source\repos\Truck Assignment And Monitoring\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.csprojResolveAssemblyReference.cache
+C:\Users\Larsson\Desktop\Truck Assignment And Monitoring\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\Larsson\Desktop\Truck Assignment And Monitoring\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.csprojResolveAssemblyReference.cache
+C:\Truck Assignment And Monitoring\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.csprojResolveAssemblyReference.cache
+C:\Truck Assignment And Monitoring\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\larsson\Desktop\progress\Truck Assignment And Monitoring 9th april\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.csprojResolveAssemblyReference.cache
+C:\Users\larsson\Desktop\progress\Truck Assignment And Monitoring 9th april\Truck Assignment And Monitoring\obj\Debug\Truck Assignment And Monitoring.csproj.CoreCompileInputs.cache
